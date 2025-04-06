@@ -15,7 +15,8 @@ I'm still working on developing a portfolio of projects, but stay tuned for exci
 
 ### 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacsutor&show_icons=true&count_private=true)
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacsutor&show_icons=true&count_private=true) -->
+<img  alt="isaacsutor's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isaacsutor?cardType=github&theme=github-dark" />
 
 ### 📫 How to Reach Me
 
