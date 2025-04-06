@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Isaac 👋
 
 I'm an ML Cloud Engineer passionate about building scalable applications which leverage ML, large language models (LLMs), and cloud technologies. 
